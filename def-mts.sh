@@ -13,7 +13,7 @@ OPERATOR='Мобильные ТелеСистемы';
 ROUTE_ID=4
 
 FREEPBX_LOGIN='admin'
-FREEPBX_PASS='mahapharata'
+FREEPBX_PASS='passs'
 FREEPBX_ADRESS='192.168.88.9'
 
 #качаем и преобразуем в формат csv
